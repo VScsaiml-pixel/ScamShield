@@ -2,6 +2,18 @@
 
 > **College Mini Project | Version 1.0**  
 > An explainable cybersecurity platform that analyzes suspicious messages and URLs to estimate scam/phishing risk, identify explainable indicators, classify scam categories, and provide actionable safety recommendations.
+> 
+> 🌐 **Live Public Demo:** [scamshield-4fae.vercel.app](https://scamshield-4fae.vercel.app/)
+
+---
+
+## 🌐 Live Public Deployment
+
+ScamShield AI is deployed and publicly accessible on Vercel:
+
+- **Live URL:** [scamshield-4fae.vercel.app](https://scamshield-4fae.vercel.app/)
+- **GitHub Repository:** [https://github.com/VScsaiml-pixel/ScamShield](https://github.com/VScsaiml-pixel/ScamShield)
+- **Deployment Platform:** Vercel (Edge Network)
 
 ---
 
